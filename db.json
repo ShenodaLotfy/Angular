@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mena",
+      "contactPreference": "email",
+      "email": "Mena@gmail.com",
+      "phone": "01285546034",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experience": 1,
+          "proficiency": "beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Shenodaaaa",
+      "contactPreference": "email",
+      "email": "shenoda@dell.com",
+      "phone": "111111111111111",
+      "skills": [
+        {
+          "skillName": "C#",
+          "experience": 1,
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "Java",
+          "experience": 1,
+          "proficiency": "intermidiate"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Shenoda",
+      "contactPreference": "email",
+      "email": "shenoda@dell.com",
+      "phone": "2222",
+      "skills": [
+        {
+          "skillName": "a",
+          "experience": "2",
+          "proficiency": "beginner"
+        },
+        {
+          "skillName": "C4",
+          "experience": "2",
+          "proficiency": "intermidiate"
+        }
+      ]
+    }
+  ]
+}
